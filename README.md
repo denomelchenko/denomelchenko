@@ -1,7 +1,7 @@
 
 # Hi, I`m Denys Omelchenko <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-[![My info](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=100&width=435&lines=Software+Engineer;Active+Reseacher;Backend+developer;)](https://git.io/typing-svg)
+[![My info](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=100&width=435&lines=Software+Engineer;Open+source+developer;Active+Reseacher;Backend+developer;)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
@@ -28,6 +28,9 @@
   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+  ![JUnit 5](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white)
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
