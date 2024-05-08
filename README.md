@@ -1,3 +1,4 @@
+
 # Hi, I`m Denys Omelchenko <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 [![My info](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=100&width=435&lines=Software+Engineer;Active+Reseacher;Backend+developer;)](https://git.io/typing-svg)
@@ -42,7 +43,8 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-## <b> Let's Stay in Touch</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Stay in Touch</b>  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="50">&nbsp;
+
 
 <div align='center'>
   <a href="https://www.linkedin.com/in/denys-omelchenko/" target="_blank">
