@@ -1,33 +1,50 @@
-### Hi there 👋
-I'm a passionate software engineer with a strong foundation in Java and backend development, particularly using the Spring Boot framework. I have 3 years of experience (academic, self-learning, and commercial) across various programming languages (Java, TypeScript, Python, C++, C) and enjoy sharing my knowledge by teaching others.
+# Hi, I`m Denys Omelchenko <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-**Currently, I'm laser-focused on:**
+[![My info](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=100&width=435&lines=Software+Engineer;Active+Reseacher;Backend+developer;)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-* Mastering Spring Boot for building robust and scalable backend applications
-* Exploring web development frameworks like NestJS and Node.js to expand my full-stack skillset
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-**What I bring to the table:**
+- ### **Languages/Frameworks**:
 
-**Technical Skills:**
+  ![SpringBoot](https://img.shields.io/badge/SpringBoot%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ### **Databases**:
 
-* **Languages/Frameworks:** Java (Spring Boot, Spring MVC, Hibernate), NestJS, Node.js, JavaScript, HTML, CSS
-* **Databases:** SQL, MySQL, MongoDB
-* **APIs:** RESTful APIs (GraphQL experience)
-* **Other:** SOLID principles, Unit Testing (JUnit), Docker, Git, Jira, Asynchronous Programming, Cloud technologies (AWS, Google Cloud)
+  ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- ### **Other**:
 
-## How to reach me: domelchenko.dev@gmail.com
+  ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<!--
-**denomelchenko/denomelchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://https://github.com/denomelcheko/">
+ <p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=denomelchenko&theme=blue-green"/></a>
+ </p>
+</a>
+<p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+<div align='center'>
+  <a href="https://www.linkedin.com/in/denys-omelchenko/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin:  Denys Omelchenko-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+  </a>
+  <a href="mailto:domelchenko@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail:   domelchenko@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+  </a>
+
+</div>
