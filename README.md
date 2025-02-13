@@ -39,7 +39,7 @@
 
 <a href="https://https://github.com/denomelcheko/">
  <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=denomelchenko&theme=blue-green"/></a>
+    <a href="(https://streak-stats.demolab.com/?user=denomelchenko1&theme=dark)]"/></a>
  </p>
 </a>
 <p>
