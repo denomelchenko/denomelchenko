@@ -39,7 +39,7 @@
 
 <a href="https://https://github.com/denomelcheko/">
  <p align="center">
-    <a href="(https://streak-stats.demolab.com/?user=denomelchenko1&theme=dark)]"/></a>
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denomelchenko)](https://github.com/anuraghazra/github-readme-stats)
  </p>
 </a>
 <p>
